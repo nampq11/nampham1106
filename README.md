@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Nam 👋
+I'm a student in Vietnam national university , Ha Noi.
+
 
 <!--
 **nampham1106/nampham1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

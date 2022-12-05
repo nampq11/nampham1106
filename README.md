@@ -1,6 +1,5 @@
 ### Hi, I'm Nam 👋
 I'm a student in Vietnam national university , Ha Noi.
-quan an cut cho
 
 
 <!--

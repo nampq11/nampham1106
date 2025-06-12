@@ -1,6 +1,6 @@
 ### Hey 👋
 
-I'm Antoine, a 27-year-old AI engineer who works to solve exciting problems through technology.
+I'm Nam, a 23-year-old AI engineer who works to solve exciting problems through technology.
 
 <!-- Github Stats -->
 <div align="center">
@@ -13,7 +13,7 @@ I'm Antoine, a 27-year-old AI engineer who works to solve exciting problems thro
 <!-- Social buttons -->
 <div align="center">
 	<!-- 
-	<a href="https://github.com/ant-louis"><img src="https://img.shields.io/github/followers/ant-louis?style=social&label=%E2%80%8Bant-louis" alt="Follow me on GitHub"></a>
+	<a href="https://github.com/nampq11"><img src="https://img.shields.io/github/followers/ant-louis?style=social&label=%E2%80%8Bant-louis" alt="Follow me on GitHub"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	-->
 	<a href="https://huggingface.co/nampham1106"><img src="https://img.shields.io/badge/🤗%20antoinelouis-43-_?style=social" alt="Check my work on Hugging Face"></a>

@@ -21,7 +21,7 @@ I'm Nam, a 23-year-old AI engineer who works to solve exciting problems through 
 	<a href="https://www.linkedin.com/in/nampham1106"><img src="https://img.shields.io/badge/_--_.svg?logo=linkedin&style=social&label=%E2%80%8Nam Pham" alt="Connect with me on LinkedIn"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<!-- 
-	<a href="https://nampq11.github.io"><img src="https://img.shields.io/badge/_-_?logo=safari&logoColor=grey&style=social&label=%E2%80%nampq11.github.io" alt="Visit my website"></a>
+	<a href="https://nampq11.github.io"><img src="https://img.shields.io/badge/_-_?logo=safari&logoColor=grey&style=social&label=nampq11.github.io" alt="Visit my website"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	-->
 	<a href="mailto:contact.nampham.work@gmail.com"><img src="https://img.shields.io/badge/_--_.svg?logo=gmail&style=social&label=%E2%80%contact.nampham.work%20[at]%20gmail%20[dot]%20com" alt="Email me"></a>
